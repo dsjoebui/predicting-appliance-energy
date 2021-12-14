@@ -1,5 +1,5 @@
 # View Jupyter Notebook through nbviewer here:
-https://nbviewer.org/github/dsjoebui/predicting-appliance-usage/blob/master/appliance-energy-time-series-eda-and-regression.ipynb 
+https://nbviewer.org/github/dsjoebui/predicting-appliance-energy/blob/master/appliance-energy-notebook.ipynb
 
 # About the Data
 
